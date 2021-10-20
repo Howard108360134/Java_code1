@@ -1,0 +1,17 @@
+package test_p18;
+
+public class test_p18 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("陪ボは弊絬\\");
+		System.out.println("陪ボ虫ま腹\'");
+		System.out.println("=================");
+		System.out.println("秈计101じ琌\101");
+		System.out.println("せ秈计0061じ琌\u0061");
+		System.out.println("秈计105じ琌\105");
+		System.out.println("秈计100じ琌\104");
+		System.out.println("せ秈计0062じ琌\u0062");
+	}
+
+}
